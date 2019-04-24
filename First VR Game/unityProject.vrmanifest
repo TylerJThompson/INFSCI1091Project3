@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.firstvrgame.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\tthom\\OneDrive\\Documents\\First VR Game\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "First VR Game [Testing]"
+        }
+      }
+    }
+  ]
+}
