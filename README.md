@@ -1,4 +1,4 @@
-# INFSCI 109 1Project3
+# INFSCI 1091 Project3
 You've volunteered to be left behind by your army, making a final stand to cover their retreat at your lord's soon to be captured castle. It's up to you to kill as many goblins as possible, to slow stop the goblins from leaving for as long as possible, to ensure your lord's and comrade's escapes. It's a crap job, but somebody's got to do it, and you'll make sure to kill as many goblins as possible along the way!
 
 # Features
